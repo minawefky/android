@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alert</string>
+    <string name="ShowDilog">hello</string>
+    <string name="dilogt">show dilog</string>
+    <string name="dilogm">quit or continue</string>
+    <string name="quit">quit</string>
+    <string name="contine">continue</string>
+</resources>
